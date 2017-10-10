@@ -1,0 +1,6 @@
+cmd
+cd\
+cd D:\DOKUMENTY\Documents\leszek\python
+Build_exe ceny_stream.py
+
+"wynik w folderze dist plik.exe"
